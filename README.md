@@ -67,10 +67,10 @@ The course will consist of a series of lectures and hands-on laboratory and comp
 - [Anthony Smith](https://za.linkedin.com/in/anthony-smith-936785b5), National Institute for Communicable Diseases (NICD), South Africa
 - [Augusto Messa Junior](https://scholar.google.com/citations?user=tOmYR7gAAAAJ&hl=pt-PT), Centro de Investigação em Saúde de Manhiça, Mozambique
 - [Stanford Kwenda](https://za.linkedin.com/in/stanford-kwenda-7bb87530), African Society of Medical Laboratory Sciences, South Africa
-- [Tsidiso Maphanga](https://scholar.google.com/citations?user=cb7A8tEAAAAJ&hl=en), African Society of Medical Laboratory Sciences, South Africa
-- [Ruth Mogokotleng](https://sciprofiles.com/profile/2553284), African Society of Medical Laboratory Sciences, South Africa
-- [Silondiwe Nzimande](https://za.linkedin.com/in/silondiwe-nzimande-620661142), African Society of Medical Laboratory Sciences, South Africa
-- [Miriam Mwamba](https://za.linkedin.com/in/miriam-mwamba-b94a77117), African Society of Medical Laboratory Sciences, South Africa
+- [Tsidiso Maphanga](https://scholar.google.com/citations?user=cb7A8tEAAAAJ&hl=en), National Institute for Communicable Diseases (NICD), South Africa
+- [Ruth Mogokotleng](https://sciprofiles.com/profile/2553284), National Institute for Communicable Diseases (NICD), South Africa
+- [Silondiwe Nzimande](https://za.linkedin.com/in/silondiwe-nzimande-620661142), National Institute for Communicable Diseases (NICD), South Africa
+- [Miriam Mwamba](https://za.linkedin.com/in/miriam-mwamba-b94a77117), National Institute for Communicable Diseases (NICD), South Africa
 
 **Wellcome Connecting Science Team**
 - [Martin Aslett](https://coursesandconferences.wellcomeconnectingscience.org/about-us/the-team/), Informatics Manager
