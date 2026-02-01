@@ -14,7 +14,7 @@
 
 Genome assembly is a key step in genomic analysis, enabling researchers to reconstruct the complete genomic sequence of an organism from raw sequencing data. This process is particularly significant for bacterial genomes, which are typically compact, circular, and rich in essential genetic information. Understanding bacterial genome assembly is essential for applications ranging from pathogen identification and antibiotic resistance profiling to studying microbial evolution and ecology. Genome assembly can broadly be categorised into two main approaches: *de novo* assembly, relies solely on overlaps or *k-mers*, and reference-based assembly, aligning reads to a known reference genome (**Figure 4.1**).
 
-![**Figure 4.1**. Two main methods for genome assembly from raw sequencing data.](https://github.com/WCSCourses/AMR_2026/blob/f69e39b100fc73b813e644e7ec1e29c9008aa1cb/course_modules_2026/GA1.png)
+![**Figure 4.1**. Two main methods for genome assembly from raw sequencing data.](https://github.com/WCSCourses/AMR_2026/blob/f69e39b100fc73b813e644e7ec1e29c9008aa1cb/course_modules_2026/GA1.png "**Figure 4.1**. Two main methods for genome assembly from raw sequencing data.")
 
 The desired outcome is to achieve long contiguous DNA sequences
 (contigs). We will have to try to put fragmented DNA sequences back to
@@ -24,7 +24,7 @@ fundamental principel of genome assembly is to look for overlaps
 between fragments, and you will appreciate why longer reads are
 advantageous here (**Figure 4.2**).
 
-![**Figure 4.2**. Desired outcome of genome assembly of raw sequencing data.](https://github.com/WCSCourses/AMR_2026/blob/f69e39b100fc73b813e644e7ec1e29c9008aa1cb/course_modules_2026/GA2.png))
+![**Figure 4.2**. Desired outcome of genome assembly of raw sequencing data.](https://github.com/WCSCourses/AMR_2026/blob/f69e39b100fc73b813e644e7ec1e29c9008aa1cb/course_modules_2026/GA2.png)
 
 
 ### De Bruijn graphs
