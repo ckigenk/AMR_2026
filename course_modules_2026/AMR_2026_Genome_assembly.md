@@ -216,8 +216,10 @@ Breakdown of the command:
 Shovill produces several files in the output folder. The only two
 files we will use are:
 
-contigs.fa The final assembly file to be used
-contigs.gfa Assembly graph used to visualise the assembly
+| **File** | **Description**                               |
+|:--------------|:------------------------------------------------|
+| `contigs.fa`    | The final assembly file to be used |
+| `contigs.gfa` | Assembly graph used to visualise the assembly  |
 
 
 3. Count how many contigs the Shovill assembly has produced with this
