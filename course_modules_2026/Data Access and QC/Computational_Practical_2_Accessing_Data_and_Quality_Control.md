@@ -2,7 +2,7 @@
 
 **Original Module Developers:** Dr. Stanford Kwenda, Mr. Collins Kigen and Mr Mishalan Moodley
 
-Modified by Collins Kigen
+Modified by Collins Kigen, Augusto Messa Jr., Silondiwe Nzimande, Miriam Mwamba
 
 ## Table Of Contents
 
