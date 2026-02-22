@@ -105,7 +105,6 @@ conda env create -f amr_env.yml
 **DO**
 - Create one environment per workflow/toolset
 - Use `bioconda` for bioinformatics tools
-- Export `env.yml` for reproducibility
 - Keep environments clean and task-specific
 
 **AVOID**
@@ -134,9 +133,6 @@ conda activate <env>
 conda install -c bioconda <tool>
 conda list
 conda deactivate
-conda env export > env.yml
-conda env create -f env.yml
-conda remove -n <env> --all
 ```
 
 ---
